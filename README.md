@@ -1,2 +1,1 @@
-# login-Authorization
-Login and Registration example with Node.js Express and MongoDB using Mongoose, JWT, HTTP Cookies
+# Node.js Express Login and Registration example with MongoDB and JWT
